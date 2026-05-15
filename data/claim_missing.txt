@@ -1,0 +1,11 @@
+Policy Number: POL999999
+
+Policyholder Name: Alice Smith
+
+Incident Date: 2026-05-11
+
+Incident Time: 11:00 AM
+
+Incident Description: Rear-end collision.
+
+Estimated Damage: 50000

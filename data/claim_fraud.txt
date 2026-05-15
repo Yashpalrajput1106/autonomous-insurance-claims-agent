@@ -1,0 +1,15 @@
+Policy Number: POL777777
+
+Policyholder Name: Robert Brown
+
+Incident Date: 2026-05-12
+
+Incident Time: 8:30 PM
+
+Location: Mysore
+
+Incident Description: Possible staged accident with inconsistent statements.
+
+Claim Type: Vehicle
+
+Estimated Damage: 45000

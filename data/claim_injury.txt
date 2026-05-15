@@ -1,0 +1,15 @@
+Policy Number: POL555555
+
+Policyholder Name: Sarah Lee
+
+Incident Date: 2026-05-15
+
+Incident Time: 3:45 PM
+
+Location: Chennai
+
+Incident Description: Customer suffered minor injuries during collision.
+
+Claim Type: Injury
+
+Estimated Damage: 70000

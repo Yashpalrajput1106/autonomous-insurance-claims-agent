@@ -1,10 +1,9 @@
 import json
 
-from parser import parse_document
-from extractor import extract_fields
-from validator import find_missing_fields
-from router import determine_route
-
+from src.parser import parse_document
+from src.extractor import extract_fields
+from src.validator import find_missing_fields
+from src.router import determine_route
 
 def process_claim(file_path):
 
@@ -31,8 +30,16 @@ def process_claim(file_path):
 
 if __name__ == "__main__":
 
-    file_path = "../data/claim1.txt"
+    file_path = "data/claim1.pdf"
+    # file_path = "data/claim_fraud.txt"
+    # file_path = "data/claim_injury.txt"
+    # file_path = "data/claim_missing.txt"
+
 
     result = process_claim(file_path)
 
     print(json.dumps(result, indent=4))
+
+    # SAVE OUTPUT JSON
+    with open("output/result.json", "w") as f:
+        json.dump(result, f, indent=4)
