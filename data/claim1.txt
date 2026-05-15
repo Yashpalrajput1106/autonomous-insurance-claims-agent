@@ -1,0 +1,31 @@
+Policy Number: POL123456
+
+Policyholder Name: John Doe
+
+Effective Dates: 2026-01-01 to 2026-12-31
+
+Incident Date: 2026-05-10
+
+Incident Time: 10:30 AM
+
+Location: Bangalore
+
+Incident Description: Minor collision at traffic signal.
+
+Claimant: John Doe
+
+Third Parties: Jane Smith
+
+Contact Details: johndoe@email.com, +91-9876543210
+
+Asset Type: Car
+
+Asset ID: CAR998877
+
+Estimated Damage: 18000
+
+Claim Type: Vehicle
+
+Attachments: photo1.jpg, report.pdf
+
+Initial Estimate: 20000
